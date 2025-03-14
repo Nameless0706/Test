@@ -1,5 +1,5 @@
 Red
 Green
 Blue
-White
-Yellow
+John
+Annie
